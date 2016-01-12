@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="272px" height="272px" viewBox="0 0 272 272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>pp-04-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="pp-04-1" sketch:type="MSArtboardGroup">
+            <g id="pp-iris-+-pp-pupil" sketch:type="MSLayerGroup" transform="translate(22.000000, 16.000000)">
+                <path d="M78.6201816,227.436597 C35.1994543,251.626403 -1.51428223e-14,230.948559 -1.51428223e-14,181.242583 L-1.51428223e-14,58.7247996 C-1.51428223e-14,9.0227448 35.1981786,-11.6599809 78.6201816,12.5302261 L192.879818,76.1837676 C236.300546,100.373264 236.301821,139.591726 192.879818,163.782242 L78.6201816,227.436597 Z" id="pp-iris" fill="#38EA92" sketch:type="MSShapeGroup"></path>
+                <path d="M88.6587626,177.332518 C59.3501676,192.797781 35.5908569,178.464618 35.5908569,145.336089 L35.5908569,85.8518361 C35.5908569,52.7154325 59.350181,38.390214 88.6587626,53.8555492 L152.592653,87.5917111 C181.901248,103.057053 181.901235,128.131271 152.592653,143.596527 L88.6587626,177.332518 Z" id="pp-pupil" stroke="#FFFFFF" stroke-width="10" fill="#000000" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
