@@ -6,9 +6,9 @@
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="pc-04" sketch:type="MSArtboardGroup">
-            <g id="pp-iris-+-pc-pupil" sketch:type="MSLayerGroup" transform="translate(14.000000, 14.000000)">
-                <circle id="pp-iris" fill="#38EA92" sketch:type="MSShapeGroup" cx="122" cy="122" r="122"></circle>
-                <circle id="pc-pupil" stroke="#FFFFFF" stroke-width="10" fill="#000000" sketch:type="MSShapeGroup" cx="123" cy="123" r="67"></circle>
+            <g id="pc-iris-+-pc-pupil-copy-2" sketch:type="MSLayerGroup" transform="translate(4.000000, 5.000000)">
+                <path d="M263.002,131.003 C263.002,203.35 204.353,262 132.002,262 C59.648,262 0.998,203.35 0.998,131.003 C0.998,58.651 59.648,0 132.002,0 C204.353,0 263.002,58.651 263.002,131.003 L263.002,131.003 Z" id="iris" fill="#A1DEF0" sketch:type="MSShapeGroup"></path>
+                <path d="M58.15,131.003 C58.15,90.28 91.28,57.15 132.002,57.15 C172.725,57.15 205.855,90.28 205.855,131.003 C205.854,171.724 172.725,204.853 132.002,204.853 C91.28,204.853 58.15,171.724 58.15,131.003 Z" id="pupil" stroke="#FFFFFF" stroke-width="12" fill="#080707" sketch:type="MSShapeGroup"></path>
             </g>
         </g>
     </g>
