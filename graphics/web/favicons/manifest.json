@@ -2,7 +2,11 @@
   "name": "Pupil Labs",
   "short_name": "Pupil Labs",
   "display": "standalone",
+  "lang": "en-US",
   "orientation": "portrait",
+  "theme_color": "#38ea92",
+  "theme_color": "#38ea92",
+  "description": "Pupil Labs - Open source eye tracking.",
   "icons": [
     {
       "src": "build/media/graphics/web/favicons/android-chrome-36x36.png",
